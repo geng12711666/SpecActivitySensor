@@ -1,0 +1,12 @@
+{
+    "frequency": 2410.0,
+    "span": -1,
+    "reference": -10.0,
+    "threshold": -45.0,
+    "decimation": 8,
+    "duration": 1,
+    "bufferduration": 50,
+    "fcduration": 10,
+    "offset": 10,
+	"option" : "sweep"
+}
